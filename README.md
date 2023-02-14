@@ -1,6 +1,6 @@
 # random-emoji
 
-Random Emoji Generator
+#Random Emoji Generator
 Este é um programa simples de geração de emojis aleatórios, criado com HTML, CSS e JavaScript. Ele usa a API emoji-api para gerar aleatoriamente diferentes emojis e exibir seus nomes. Ao passar o mouse sobre o emoji, ele fica colorido, e ao tirar o mouse, ele volta a uma tonalidade cinza.
 
 Funcionalidades
