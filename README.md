@@ -1,30 +1,25 @@
 # random-emoji
 
-#Random Emoji Generator
+<h1>Random Emoji Generator</h1>
 
-Este é um programa simples de geração de emojis aleatórios, criado com HTML, CSS e JavaScript. Ele usa a API emoji-api para gerar aleatoriamente diferentes emojis e exibir seus nomes. Ao passar o mouse sobre o emoji, ele fica colorido, e ao tirar o mouse, ele volta a uma tonalidade cinza.
+This is a simple program for generating random emojis, created with HTML, CSS, and JavaScript. It uses the emoji-api to randomly generate different emojis and display their names. When you hover over the emoji, it becomes colored, and when you move the mouse away, it returns to a gray tone.
 
-#Funcionalidades
+Features
 
-Gera aleatoriamente diferentes emojis usando a API de emojis e exibe seus nomes.
-Ao passar o mouse sobre o emoji, ele fica colorido.
-Ao tirar o mouse, o emoji volta a uma tonalidade cinza.
-Não é possível copiar o emoji gerado para a área de transferência.
+Generates randomly different emojis using the emoji-api and displays their names. When you hover over the emoji, it becomes colored. When you move the mouse away, the emoji returns to a gray tone. It is not possible to copy the generated emoji to the clipboard.
 
-#Como usar
+How to use
 
-Abra o arquivo index.html em seu navegador.
-Clique no botão "Gerar emoji" para gerar um novo emoji aleatório.
-Passe o mouse sobre o emoji gerado para vê-lo colorido.
+Open the index.html file in your browser. Click on the "Generate emoji" button to generate a new random emoji. Hover over the generated emoji to see it in color.
 
-#API de Emojis
+Emoji API
 
-Este programa usa a API emoji-api para gerar aleatoriamente diferentes emojis. A API retorna um código Unicode para cada emoji, que é usado para exibir o emoji em nosso programa. Além disso, o nome do emoji é exibido abaixo do emoji gerado.
+This program uses the emoji-api to randomly generate different emojis. The API returns a Unicode code for each emoji, which is used to display the emoji in our program. Additionally, the name of the emoji is displayed below the generated emoji.
 
-#Licença
+License
 
-Este projeto é licenciado sob a licença MIT. Veja o arquivo LICENSE.md para mais detalhes.
+This project is licensed under the MIT License. See the LICENSE.md file for more details.
 
-#Autor
+Author
 
-Este programa foi criado por Celio Carcalto. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
+This program was created by Celio Carcalto. If you have any questions or suggestions, please do not hesitate to contact me.
