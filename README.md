@@ -20,6 +20,6 @@ This program uses the emoji-api to randomly generate different emojis. The API r
 
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
 
-</h2>Author</h2>
+<h2>Author</h2>
 
 This program was created by Celio Carcalto. If you have any questions or suggestions, please do not hesitate to contact me.
